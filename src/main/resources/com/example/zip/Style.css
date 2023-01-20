@@ -1,0 +1,32 @@
+.input_upload{
+    -fx-background-color:white;
+    -fx-border-width: 3px;
+    -fx-border-color: #856AFB;
+    -fx-border-style: solid;
+}
+.btn_upload{
+    -fx-background-color:#856AFB;
+    /*-fx-border-width: 2px;*/
+    -fx-border-color: #856AFB;
+
+    /*-fx-border-width: 2px 2px 0 2px;*/
+
+    -fx-outline: none;
+
+}
+.input_password{
+    -fx-background-color:white;
+    -fx-border-width: 3px;
+    -fx-border-color: #856AFB;
+    -fx-border-style: solid;
+}
+.btn_zip{
+
+    -fx-background-color:#856AFB;
+    -fx-outline: none;
+
+}
+.btn_download{
+    -fx-background-color:#856AFB;
+    -fx-outline: none;
+}
